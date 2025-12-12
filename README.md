@@ -1,4 +1,4 @@
-# UFCD 5414: Laboratório 6 - Full Stack App
+# UC00621: Laboratório 6 - Full Stack App
 
 **Author**: Nelson Santos  
 **Email**: [nelson.santos.0001376@edu.atec.pt](mailto:nelson.santos.0001376@edu.atec.pt)  
