@@ -154,5 +154,5 @@ Ao integrar o **[Node.js](https://nodejs.org/)** com **JavaScript** no front-end
 
 ## Autores
 
-André Correia
-Vanessa Teles
+- André Correia
+- Vanessa Teles
